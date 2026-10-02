@@ -25,12 +25,11 @@ and track progress toward personal carbon-reduction targets.
 
 ## Deliverables
 
-| Deliverable | File |
+| Deliverable |
 |---|---|
-| Requirements Table (5 FR + 2 NFR) | [requirements/Household_Carbon_Tracker_Requirements_Table.xlsx](./requirements/Household_Carbon_Tracker_Requirements_Table.xlsx) |
-| UML Use-Case Diagram | [diagrams/Household_Carbon_Tracker_UseCase_Diagram.pdf](./diagrams/Household_Carbon_Tracker_UseCase_Diagram.pdf) |
-| Use-Case Flow Specification (Log Monthly Consumption) | [use_case_flow/Household_Carbon_Tracker_UseCase_Flow.docx](./use_case_flow/Household_Carbon_Tracker_UseCase_Flow.docx) |
-
+| Requirements Table (5 FR + 2 NFR) |
+| UML Use-Case Diagram |
+| Use-Case Flow Specification (Log Monthly Consumption) |
 ## Notes
 
 - The requirements table's **Comments** column is intentionally left blank for the
